@@ -24,4 +24,18 @@ st.dataframe()
 st.table()
 st.bar_chart()
 st.line_chart()
+st.pyplot()
 st.map()
+
+# Part 4 Customising Layouts
+st.columns()
+st.containers()
+st.expander()
+st.popover()
+st.tabs()
+st.lottie()
+
+# Part 5 LLM
+st.chat_input()
+st.cache_data
+st.write_stream()
