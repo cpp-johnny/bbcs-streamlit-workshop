@@ -1,3 +1,4 @@
+# Part 2 Fundamentals
 st.set_page_config()
 st.write()
 st.title()
@@ -17,3 +18,10 @@ st.checkbox()
 st.radio()
 st.selectbox()
 st.toggle()
+
+# Part 3 Data Vis
+st.dataframe()
+st.table()
+st.bar_chart()
+st.line_chart()
+st.map
