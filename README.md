@@ -1,3 +1,3 @@
 # Trailblazing with Streamlit (BBCS24 June)
 
-### To access Materials visit each X
+### To access list of all functions and code visit [cheatsheet.py](https://github.com/cpp-johnny/bbcs-streamlit-workshop/blob/main/cheatsheat.py)
