@@ -24,4 +24,4 @@ st.dataframe()
 st.table()
 st.bar_chart()
 st.line_chart()
-st.map
+st.map()
