@@ -1,0 +1,5 @@
+git init
+git add .
+git commit -m “your message”
+git remote add origin <insert repo link.git>
+git push -u origin master
